@@ -1,4 +1,4 @@
-#### [Home](REAMDME.md) &nbsp; | &nbsp; [Education](education.md) &nbsp; | &nbsp; [Past Projects](projects.md) &nbsp; | &nbsp; [Work Experience](experience.md) &nbsp; | &nbsp; [Senior Design](sDesign.md) &nbsp; | &nbsp; [Reflections](reflections.md)
+##### [Home](REAMDME.md) &nbsp; | &nbsp; [Education](education.md) &nbsp; | &nbsp; [Past Projects](projects.md) &nbsp; | &nbsp; [Work Experience](experience.md) &nbsp; | &nbsp; [Senior Design](sDesign.md) &nbsp; | &nbsp; [Reflections](reflections.md)
 
 You can use the [editor on GitHub](https://github.com/bxh496/494-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
