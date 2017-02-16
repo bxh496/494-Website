@@ -21,7 +21,7 @@ This executable mixes a number of sound files together by adding the sample valu
 This is the most interesting of the executables. It takes user selected flags to generate sound waves in cs229 format using an ADSR envelope in a few different wave shapes.
 
 ### Takeaway
-This was my first major assignment in C++ and the sheer size of it forced me to learn a lot about the language. We were given a lot of freedom in how to tackle the problems and inheritance hierarchy used, which meant it was pretty much up to me to solve my own problems and deal with any roadblocks in the language I hit.
+This was my first major assignment in C++ and the sheer size of it forced me to learn a lot about the language. We were given a lot of freedom in how to tackle the problems and inheritance hierarchy used, which meant it was pretty much up to me to solve my own problems and deal with any roadblocks in the language I hit. The size of the project also forced me to carefully consider and plan my hierarchy and design before I started coding so that I didn't end up having to backtrack hours of work when I realized something wasn't going to work.
 
 ## 530 Packet Decoder
 ### Project Description
