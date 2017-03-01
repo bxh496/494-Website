@@ -1,3 +1,5 @@
 ##### [Home](README.md) &nbsp; | &nbsp; [Education](education.md) &nbsp; | &nbsp; [Past Projects](projects.md) &nbsp; | &nbsp; [Work Experience](experience.md) &nbsp; | &nbsp; [Senior Design](sDesign.md) &nbsp; | &nbsp; [Reflections](reflections.md)
 
 # Work Experience
+## Computer Science Teaching Assistant
+I work as a teaching assistant for the class CS 227, which is our introduction to object oriented programming course. I'm responsible for supervising Java laboratories, grading homework and exams, moderating/helping to answer questions in an online forum, and holding personal office hours to assist students in homework and answering any further questions they have about programming. This job has given me the opportunity to experience how other people learn and approach problems and how I can better help them to go about solving problems. I've also gained experience in reading and analyzing other peoples' code as well as learned to have a large amount of patience with difficult students.
