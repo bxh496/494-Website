@@ -2,6 +2,8 @@
 
 # About Me
 
-*Brandon Huegli
-brandon_huegli@hotmail.com
-641-425-2580*
+**Brandon Huegli**
+
+**brandon_huegli@hotmail.com**
+
+**641-425-2580**
