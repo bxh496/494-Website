@@ -4,7 +4,7 @@
 
 **Brandon Huegli**
 
-**bjhuegli@hiastate.edu**
+**bjhuegli@iastate.edu**
 
 **[Resume](resume.pdf)**
 
